@@ -3,6 +3,9 @@ layout: page
 title: "Mechanical Engineer"
 ---
 
+![Raheel Nazir](https://upload.wikimedia.org/wikipedia/en/0/03/Walter_White_S5B.png)
+
+
 I am a Mechanical Engineering student with a strong foundation in calculus, physics, and engineering design. Passionate about motorsports and innovation, I thrive in hands-on environments where I can apply my skills in mechanical design, prototyping, and product development. With expertise in SolidWorks, AutoCAD, CATIA, and MATLAB, I enjoy tackling complex engineering challenges and pushing technological boundaries.  
 
 Beyond academics, I am an active member of [LSU Tiger Racing Formula SAE](https://www.formulalsu.com/), where I contribute to high-performance vehicle design and engineering. I also serve on the board of my university’s Hiking Club, combining my love for the outdoors with leadership and team-building experiences. Additionally, my involvement in student organizations such as the Student Government Association and Student Programming Board has strengthened my ability to collaborate, organize events, and engage with diverse communities.  
