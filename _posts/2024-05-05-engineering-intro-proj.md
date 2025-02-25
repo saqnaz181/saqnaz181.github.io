@@ -13,9 +13,3 @@ The primary focus of the design was on **modularity** and **efficiency** for spa
 - **Design Focus:** The spaceship was designed with modular components, allowing for easier construction in space. 
 - **Tools Used:** I used **AutoCAD** to create detailed blueprints for the modular components, ensuring **precision** and **compatibility** for orbital assembly.
 - **Team Leadership:** As the team lead, I coordinated with team members to ensure that all components fit together seamlessly and that the project met our design criteria for both functionality and feasibility.
-
-1. First item
-2. Second item
-3. Third item
-    1. First nested item
-    2. Second nested item
