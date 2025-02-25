@@ -3,7 +3,7 @@ title: "Pendulum Project"
 layout: post
 ---
 
-In the **Calculus III** course at [CCBC](https://www.ccbcmd.edu/Programs-and-Courses-Finder/course/ENSC/101.html), I led a project focused on applying multivariable calculus to model the motion of a pendulum under varying forces.
+In the **Calculus III** course at [CCBC](https://www.ccbcmd.edu/Programs-and-Courses-Finder/course/MATH/253.html), I led a project focused on applying multivariable calculus to model the motion of a pendulum under varying forces.
 
 The primary goal was to use advanced calculus techniques to solve complex integrals and differential equations, and to analyze how different forces affect the pendulum's motion.
 
