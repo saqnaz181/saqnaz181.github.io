@@ -17,5 +17,5 @@ I’ve always been a **comic book** fan and love getting lost in the stories and
 
 These are just a few of the things that make me, me. I like to keep a balance between my passions, whether I’m out on a hike, jamming on my guitar, or diving into the latest F1 race.
 
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
-{% include carousel.html height="50" unit="%" duration="7" number="2" %}
+{% include carousel.html height="30" unit="%" duration="7" number="1" %}
+{% include carousel.html height="30" unit="%" duration="7" number="2" %}
