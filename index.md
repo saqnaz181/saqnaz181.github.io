@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Mechanical Engineer"
+title: "Raheel Nazir"
 ---
 
 ![Raheel Nazir](https://upload.wikimedia.org/wikipedia/en/0/03/Walter_White_S5B.png)
