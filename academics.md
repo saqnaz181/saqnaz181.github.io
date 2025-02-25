@@ -20,7 +20,3 @@ Upon completion of my associate degree, I plan to transfer to the James A. Clark
 | **Transfer Plans**               | Plans to transfer to the James A. Clark School of Engineering for a Bachelor of Science in Mechanical Engineering (MechE) |
 | **Articulation and Transfer**    | Program designed with articulation agreements to ensure smooth transfer to the University of Maryland, James A. Clark School of Engineering |
 
----
-
-For more details on the Associate of Science in Engineering program at CCBC, please visit the [Engineering Program Page](https://www.ccbcmd.edu/Programs-and-Courses-Finder/course/ENSC/101.html).
-
