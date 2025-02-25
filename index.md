@@ -1,7 +1,14 @@
 ---
 layout: page
-title: "Mechanical Engineer"
+title: "About Me"
 ---
+
+<div style="display: flex; align-items: center;">
+    <img src="https://www.lifewire.com/thmb/-3f59H51N9kq6oGOlKG1DYoLslA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/find-anyone-online-3482687-91a015d74d794f77b299703eff0f47a9.png" 
+         alt="Raheel Nazir" 
+         style="width: 150px; height: auto; border-radius: 50%; margin-right: 20px;">
+    <div>
+</div>
 
 I am a Mechanical Engineering student with a strong foundation in calculus, physics, and engineering design. Passionate about motorsports and innovation, I thrive in hands-on environments where I can apply my skills in mechanical design, prototyping, and product development. With expertise in SolidWorks, AutoCAD, CATIA, and MATLAB, I enjoy tackling complex engineering challenges and pushing technological boundaries.  
 
