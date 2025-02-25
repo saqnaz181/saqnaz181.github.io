@@ -3,7 +3,7 @@ title: "Calculus III Project"
 layout: post
 ---
 
-## Calculus III (August - December 2024)
+## Calculus III
 
 For this project, I applied multivariable calculus to model the motion of a pendulum under varying forces. By considering external influences such as air resistance and changing gravitational conditions, I developed a mathematical framework to describe the pendulum’s behavior accurately.
 
