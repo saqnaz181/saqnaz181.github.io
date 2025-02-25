@@ -23,10 +23,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 - {title: "Contact", file: "contact.md"}
 
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+external:                  
   - {title: Mail, icon: envelope, url: "mailto:raheeelnazir@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/RaheelN2005"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/raheel-n-a6a14932a/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
