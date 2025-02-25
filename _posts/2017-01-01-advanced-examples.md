@@ -7,6 +7,8 @@ In the **Mechanics I (Statics)** course at [CCBC](https://www.ccbcmd.edu/Program
 
 The primary objective was to use engineering principles and software tools to model the forces and moments, and verify that the structure could maintain stability under different conditions.
 
+
+
 ### Project Overview:
 - **Design Focus:** The project centered around analyzing the static equilibrium of a structure, calculating the forces and moments to ensure its stability and safety.
 - **Tools Used:** I used engineering software to simulate and visualize the forces acting on the structure, allowing for precise calculations and analysis of the system.
