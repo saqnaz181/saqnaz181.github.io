@@ -11,5 +11,3 @@ In the **Intro to Engineering Design** course at [CCBC](https://www.ccbcmd.edu/P
 - **Team Leadership:** As the team lead, I coordinated with team members to ensure that all components fit together seamlessly and that the project met our design criteria for both functionality and feasibility.
 
 This project not only honed my skills in engineering design but also provided invaluable experience in leading a team and applying theoretical knowledge to a real-world design challenge.
-
-If you're interested in learning more about the course, check out the full [CCBC Intro to Engineering Design course](https://www.ccbcmd.edu/Programs-and-Courses-Finder/course/ENSC/101.html).
