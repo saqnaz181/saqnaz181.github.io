@@ -1,7 +1,6 @@
 ---
-title: "Academics"
 layout: default
-permalink: /academics/
+title: "Academics"
 ---
 
 # Academics
