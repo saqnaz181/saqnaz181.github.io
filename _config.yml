@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-- {file: "Raheel.pdf", title: "CV", icon: home}
+- {file: "Raheel.pdf", title: "CV"}
 - {title: "Lab", url: "https://childlanglab.com"}
 - {title: "Blog", file: "/blog.md"}
 
