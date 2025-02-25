@@ -3,8 +3,6 @@ layout: page
 title: "Academics"
 ---
 
-## Academics
-
 I am currently pursuing an Associate of Science in Engineering at the Community College of Baltimore County (CCBC), with an expected graduation date of May 2027. As part of the Mathematics, Technology, and Science Achievement Program (MTAP), I am actively developing a strong foundation in key subjects such as chemistry, physics, and mathematics. This program is designed to prepare students for transfer to a four-year university, and I am working toward completing the core courses necessary for a successful transition.
 
 Upon completion of my associate degree, I plan to transfer to the James A. Clark School of Engineering at the University of Maryland to pursue a Bachelor of Science in Mechanical Engineering (MechE). I have carefully mapped out my academic trajectory, and I am confident that the coursework I am currently undertaking will provide the knowledge and skills necessary to succeed at the next level of my education. I am excited to further my engineering studies and contribute to innovations in the field.
