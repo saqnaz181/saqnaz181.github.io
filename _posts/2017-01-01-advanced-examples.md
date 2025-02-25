@@ -3,7 +3,7 @@ title: "Statics Project"
 layout: post
 ---
 
-In the **Mechanics I (Statics)** course at [CCBC](https://www.ccbcmd.edu/Programs-and-Courses-Finder/course/ENSC/101.html), I led a project focused on analyzing the static equilibrium of a structure, ensuring its stability and safety by calculating the forces and moments acting on it.
+In the **Mechanics I (Statics)** course at [CCBC](https://www.ccbcmd.edu/Programs-and-Courses-Finder/course/ENSC/111.html), I led a project focused on analyzing the static equilibrium of a structure, ensuring its stability and safety by calculating the forces and moments acting on it.
 
 The primary objective was to use engineering principles and software tools to model the forces and moments, and verify that the structure could maintain stability under different conditions.
 
