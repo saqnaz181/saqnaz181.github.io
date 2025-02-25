@@ -1,22 +1,15 @@
-## Academics
-
-I am currently pursuing an Associate of Science in Engineering at the Community College of Baltimore County (CCBC), with an expected graduation date of May 2027. As part of the Mathematics, Technology, and Science Achievement Program (MTAP), I am actively developing a strong foundation in key subjects such as chemistry, physics, and mathematics. This program is designed to prepare students for transfer to a four-year university, and I am working toward completing the core courses necessary for a successful transition.
-
-Upon completion of my associate degree, I plan to transfer to the James A. Clark School of Engineering at the University of Maryland to pursue a Bachelor of Science in Mechanical Engineering (MechE). I have carefully mapped out my academic trajectory, and I am confident that the coursework I am currently undertaking will provide the knowledge and skills necessary to succeed at the next level of my education. I am excited to further my engineering studies and contribute to innovations in the field.
-
-### Associate of Science in Engineering (A.S.) - Expected Graduation: May 2027  
-**Community College of Baltimore County (CCBC)**  
-
-| **Program**                     | **Details**                                                                 |
-|----------------------------------|-----------------------------------------------------------------------------|
-| **Degree**                       | Associate of Science in Engineering (A.S.)                                  |
-| **Expected Graduation**          | May 2027                                                                    |
-| **Program Description**          | Provides foundational knowledge in engineering, preparing students for transfer to a four-year university. Includes courses in chemistry, physics, mathematics, and engineering design. |
-| **Key Courses**                  | CHEM 131 - General Chemistry I<br>PHYS 151 - General Physics I<br>MATH 251 - Calculus I<br>ENSC 101 - Introduction to Engineering Design<br>MATH 252 - Calculus II<br>PHYS 251 - General Physics II |
-| **Current Program Status**       | Enrolled in MTAP (Mathematics, Technology, and Science Achievement Program) |
-| **Transfer Plans**               | Plans to transfer to the James A. Clark School of Engineering for a Bachelor of Science in Mechanical Engineering (MechE) |
-| **Articulation and Transfer**    | Program designed with articulation agreements to ensure smooth transfer to the University of Maryland, James A. Clark School of Engineering |
-
+---
+title: "Engineering Design – Team Lead"
+layout: post
 ---
 
-For more details on the Associate of Science in Engineering program at CCBC, please visit the [Engineering Program Page](https://www.ccbcmd.edu/Programs-and-Courses-Finder/course/ENSC/101.html).
+In the **Intro to Engineering Design** course at [CCBC](https://www.ccbcmd.edu/Programs-and-Courses-Finder/course/ENSC/101.html), I served as the **Team Lead** for a project where we designed a spaceship the size of a U.S. aircraft carrier.
+
+The primary focus of the design was on **modularity** and **efficiency** for space assembly, using AI-driven tools to ensure the structure could be assembled in orbit.
+
+
+
+### Project Overview:
+- **Design Focus:** The spaceship was designed with modular components, allowing for easier construction in space. 
+- **Tools Used:** I used **AutoCAD** to create detailed blueprints for the modular components, ensuring **precision** and **compatibility** for orbital assembly.
+- **Team Leadership:** As the team lead, I coordinated with team members to ensure that all components fit together seamlessly and that the project met our design criteria for both functionality and feasibility.
