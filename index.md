@@ -3,7 +3,7 @@ layout: page
 title: "Raheel Nazir"
 ---
 
-![Raheel Nazir](https://upload.wikimedia.org/wikipedia/en/0/03/Walter_White_S5B.png)
+![Raheel Nazir](assets/profile_pic.png)
 
 
 I am a Mechanical Engineering student with a strong foundation in calculus, physics, and engineering design. Passionate about motorsports and innovation, I thrive in hands-on environments where I can apply my skills in mechanical design, prototyping, and product development. With expertise in SolidWorks, AutoCAD, CATIA, and MATLAB, I enjoy tackling complex engineering challenges and pushing technological boundaries.  
