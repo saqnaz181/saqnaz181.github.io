@@ -1,10 +1,13 @@
 ---
-title: "Calculus III Project"
+title: "Pendulum Project"
 layout: post
 ---
 
-For this project, I applied multivariable calculus to model the motion of a pendulum under varying forces. By considering external influences such as air resistance and changing gravitational conditions, I developed a mathematical framework to describe the pendulum’s behavior accurately.
+In the **Calculus III** course at [CCBC](https://www.ccbcmd.edu/Programs-and-Courses-Finder/course/ENSC/101.html), I led a project focused on applying multivariable calculus to model the motion of a pendulum under varying forces.
 
-To analyze the system, I utilized advanced calculus techniques, including solving complex integrals and differential equations. These methods allowed me to explore how different forces impact the motion, providing deeper insights into the pendulum’s trajectory and stability.
+The primary goal was to use advanced calculus techniques to solve complex integrals and differential equations, and to analyze how different forces affect the pendulum's motion.
 
-The project concluded with a presentation showcasing the real-world applications of these calculus principles. Through visual simulations and theoretical analysis, I demonstrated how mathematical modeling can be used to understand and predict physical phenomena with precision.
+### Project Overview:
+- **Modeling Focus:** The project involved modeling the motion of a pendulum under varying forces using multivariable calculus.
+- **Techniques Used:** I utilized advanced calculus techniques, including integrals and differential equations, to solve complex problems related to the motion and stability of the system.
+- **Leadership and Communication:** As the project lead, I coordinated the mathematical analysis, ensuring accurate calculations and clear communication of the results. I presented the findings, showcasing the real-world application of calculus principles and demonstrating the practical impact of mathematical concepts.
