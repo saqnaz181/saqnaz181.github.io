@@ -15,4 +15,6 @@ These are just a few of the things that make me, me. I like to keep a balance be
 
 
 
-<iframe src="https://emailccbcmd-my.sharepoint.com/personal/na1096621_email_ccbcmd_edu/_layouts/15/Doc.aspx?sourcedoc={ceabcffc-227e-4b26-a2ff-a493d7120710}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="700px" height="400px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+  {% include carousel.html height="50" unit="%" duration="7" number="1" %}
+
+  {% include carousel.html height="50" unit="%" duration="7" number="2" %}
