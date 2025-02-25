@@ -7,7 +7,7 @@ I am currently pursuing an Associate of Science in Engineering at the Community 
 
 Upon completion of my associate degree, I plan to transfer to the James A. Clark School of Engineering at the University of Maryland to pursue a Bachelor of Science in Mechanical Engineering (MechE). I have carefully mapped out my academic trajectory, and I am confident that the coursework I am currently undertaking will provide the knowledge and skills necessary to succeed at the next level of my education. I am excited to further my engineering studies and contribute to innovations in the field.
 
-### Associate of Science in Engineering (A.S.) - Expected Graduation: May 2027  
+### Associate of Science in Engineering (A.S.) &rarr; Bachelor of Science in Mechanical Engineering (B.S.) Expected Graduation: May 2027  
 **Community College of Baltimore County (CCBC)**  
 
 | **Program**                     | **Details**                                                                 |
