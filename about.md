@@ -22,3 +22,4 @@ These are just a few of the things that make me, me. I like to keep a balance be
 
 {% include carousel.html height="70" unit="%" duration="7" number="1" %}
 {% include carousel.html height="70" unit="%" duration="7" number="2" %}
+Above are some of my favorite cars.
