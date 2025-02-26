@@ -14,3 +14,4 @@ Feel free to reach out via email or connect with me on LinkedIn.
 - **LinkedIn:** [Raheel N.](https://www.linkedin.com/in/raheel-n-a6a14932a/)
 - **GitHub:** [RaheelN2005](https://github.com/RaheelN2005)
 
+{% include accordion.html %}
