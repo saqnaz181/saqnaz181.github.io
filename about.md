@@ -6,7 +6,7 @@ carousels:
       - image: /assets/slider/image1.jpeg
       - image: /assets/slider/image2.jpeg
   - images: 
-      - image: /assets/slider/image1.jpeg
+      - image: /assets/slider/image6.jpg
       - image: /assets/slider/image2.jpeg
 ---
 
