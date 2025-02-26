@@ -13,11 +13,11 @@ The primary objective was to use engineering principles and software tools to mo
 - **Leadership and Communication:** As the project lead, I coordinated the analysis process, ensuring accurate calculations and clear communication of the findings. I presented the results in a comprehensive report that demonstrated problem-solving abilities and technical communication skills.
 
 <!-- Tableau Embed -->
-<div class='tableauPlaceholder' id='viz1740600873387' style='position: relative'>
+<div class='tableauPlaceholder' id='viz1740600873387' style='position: relative; width: 600px; height: 500px; margin: auto;'>
     <noscript>
-        <a href='#'><img alt='Rural Hospital Closures' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ru&#47;RuralHospitalClosures-ProjectHealthViz&#47;RuralHospitalClosures&#47;1_rss.png' style='border: none' /></a>
+        <a href='#'><img alt='Rural Hospital Closures' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ru&#47;RuralHospitalClosures-ProjectHealthViz&#47;RuralHospitalClosures&#47;1_rss.png' style='border: none; width: 100%; height: auto;' /></a>
     </noscript>
-    <object class='tableauViz' style='display:none;'>
+    <object class='tableauViz' style='display:none; width: 100%; height: 100%;'>
         <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
         <param name='embed_code_version' value='3' />
         <param name='site_root' value='' />
@@ -36,8 +36,8 @@ The primary objective was to use engineering principles and software tools to mo
 <script type='text/javascript'>
     var divElement = document.getElementById('viz1740600873387');
     var vizElement = divElement.getElementsByTagName('object')[0];
-    vizElement.style.width='900px';
-    vizElement.style.height='1227px';
+    vizElement.style.width='600px';
+    vizElement.style.height='500px';
     var scriptElement = document.createElement('script');
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
