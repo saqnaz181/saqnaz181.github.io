@@ -12,7 +12,7 @@ Upon completion of my associate degree, I plan to transfer to the James A. Clark
 
 | **Program**                     | **Details**                                                                 |
 |----------------------------------|-----------------------------------------------------------------------------|
-| **Degree**                       | Associate of Science in Engineering (A.S.)                                  |
+| **Degree**                       | Associate of Science in Engineering (A.S.) &rarr; Bachelor of Science in Mechanical Engineering (B.S.)                                  |
 | **Expected Graduation**          | May 2027                                                                    |
 | **Program Description**          | Provides foundational knowledge in engineering, preparing students for transfer to a four-year university. Includes courses in chemistry, physics, mathematics, and engineering design. |
 | **Key Courses**                  | CHEM 131 - General Chemistry I<br>PHYS 151 - General Physics I<br>MATH 251 - Calculus I<br>ENSC 101 - Introduction to Engineering Design<br>MATH 252 - Calculus II<br>PHYS 251 - General Physics II |
